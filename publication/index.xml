@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | SQUARES</title>
-    <link>pmorvalho.github.io/squares/publication/</link>
-      <atom:link href="pmorvalho.github.io/squares/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://squares.github.io/publication/</link>
+      <atom:link href="https://squares.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2019 13:59:34 +0200</lastBuildDate>
     <image>
-      <url>pmorvalho.github.io/squares/img/icon-192.png</url>
+      <url>https://squares.github.io/img/icon-192.png</url>
       <title>Publications</title>
-      <link>pmorvalho.github.io/squares/publication/</link>
+      <link>https://squares.github.io/publication/</link>
     </image>
     
     <item>
       <title>Encodings for Enumeration-Based Program Synthesis</title>
-      <link>pmorvalho.github.io/squares/publication/conference-paper/</link>
+      <link>https://squares.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 23 Sep 2019 13:59:34 +0200</pubDate>
-      <guid>pmorvalho.github.io/squares/publication/conference-paper/</guid>
+      <guid>https://squares.github.io/publication/conference-paper/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SQUARES : A SQL Synthesizer Using Query Reverse Engineering</title>
-      <link>pmorvalho.github.io/squares/publication/thesis/</link>
+      <link>https://squares.github.io/publication/thesis/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>pmorvalho.github.io/squares/publication/thesis/</guid>
+      <guid>https://squares.github.io/publication/thesis/</guid>
       <description></description>
     </item>
     
