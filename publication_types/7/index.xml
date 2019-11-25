@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7 | SQUARES</title>
-    <link>https://squares.github.io/publication_types/7/</link>
-      <atom:link href="https://squares.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pmorvalho.github.io/squares/publication_types/7/</link>
+      <atom:link href="https://pmorvalho.github.io/squares/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://squares.github.io/img/icon-192.png</url>
+      <url>https://pmorvalho.github.io/squares/img/icon-192.png</url>
       <title>7</title>
-      <link>https://squares.github.io/publication_types/7/</link>
+      <link>https://pmorvalho.github.io/squares/publication_types/7/</link>
     </image>
     
     <item>
       <title>SQUARES : A SQL Synthesizer Using Query Reverse Engineering</title>
-      <link>https://squares.github.io/publication/thesis/</link>
+      <link>https://pmorvalho.github.io/squares/publication/thesis/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://squares.github.io/publication/thesis/</guid>
+      <guid>https://pmorvalho.github.io/squares/publication/thesis/</guid>
       <description></description>
     </item>
     

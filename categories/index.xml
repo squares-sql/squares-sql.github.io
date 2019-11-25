@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | SQUARES</title>
-    <link>https://squares.github.io/categories/</link>
-      <atom:link href="https://squares.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://pmorvalho.github.io/squares/categories/</link>
+      <atom:link href="https://pmorvalho.github.io/squares/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://squares.github.io/img/icon-192.png</url>
+      <url>https://pmorvalho.github.io/squares/img/icon-192.png</url>
       <title>Categories</title>
-      <link>https://squares.github.io/categories/</link>
+      <link>https://pmorvalho.github.io/squares/categories/</link>
     </image>
     
     <item>
       <title>Demo</title>
-      <link>https://squares.github.io/categories/demo/</link>
+      <link>https://pmorvalho.github.io/squares/categories/demo/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://squares.github.io/categories/demo/</guid>
+      <guid>https://pmorvalho.github.io/squares/categories/demo/</guid>
       <description></description>
     </item>
     
