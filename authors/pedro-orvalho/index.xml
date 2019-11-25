@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pedro Orvalho | SQUARES</title>
+    <link>squares.github.io/authors/pedro-orvalho/</link>
+      <atom:link href="squares.github.io/authors/pedro-orvalho/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pedro Orvalho</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2019 13:59:34 +0200</lastBuildDate>
+    <image>
+      <url>squares.github.io/img/icon-192.png</url>
+      <title>Pedro Orvalho</title>
+      <link>squares.github.io/authors/pedro-orvalho/</link>
+    </image>
+    
+    <item>
+      <title>Encodings for Enumeration-Based Program Synthesis</title>
+      <link>squares.github.io/publication/conference-paper/</link>
+      <pubDate>Mon, 23 Sep 2019 13:59:34 +0200</pubDate>
+      <guid>squares.github.io/publication/conference-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQUARES : A SQL Synthesizer Using Query Reverse Engineering</title>
+      <link>squares.github.io/publication/thesis/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>squares.github.io/publication/thesis/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
