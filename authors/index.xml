@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | SQUARES</title>
-    <link>https://pmorvalho.github.io/squares/authors/</link>
-      <atom:link href="https://pmorvalho.github.io/squares/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2019 13:59:34 +0200</lastBuildDate>
     <image>
-      <url>https://pmorvalho.github.io/squares/img/icon-192.png</url>
+      <url>img/icon-192.png</url>
       <title>Authors</title>
-      <link>https://pmorvalho.github.io/squares/authors/</link>
+      <link>/authors/</link>
     </image>
     
     <item>
       <title>Miguel Terra-Neves</title>
-      <link>https://pmorvalho.github.io/squares/authors/miguel-terra-neves/</link>
+      <link>/authors/miguel-terra-neves/</link>
       <pubDate>Mon, 23 Sep 2019 13:59:34 +0200</pubDate>
-      <guid>https://pmorvalho.github.io/squares/authors/miguel-terra-neves/</guid>
+      <guid>/authors/miguel-terra-neves/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Miguel Ventura</title>
-      <link>https://pmorvalho.github.io/squares/authors/miguel-ventura/</link>
+      <link>/authors/miguel-ventura/</link>
       <pubDate>Mon, 23 Sep 2019 13:59:34 +0200</pubDate>
-      <guid>https://pmorvalho.github.io/squares/authors/miguel-ventura/</guid>
+      <guid>/authors/miguel-ventura/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pedro Orvalho</title>
-      <link>https://pmorvalho.github.io/squares/authors/pedro-orvalho/</link>
+      <link>/authors/pedro-orvalho/</link>
       <pubDate>Mon, 23 Sep 2019 13:59:34 +0200</pubDate>
-      <guid>https://pmorvalho.github.io/squares/authors/pedro-orvalho/</guid>
+      <guid>/authors/pedro-orvalho/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ruben Martins</title>
-      <link>https://pmorvalho.github.io/squares/authors/ruben-martins/</link>
+      <link>/authors/ruben-martins/</link>
       <pubDate>Mon, 23 Sep 2019 13:59:34 +0200</pubDate>
-      <guid>https://pmorvalho.github.io/squares/authors/ruben-martins/</guid>
+      <guid>/authors/ruben-martins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vasco M. Manquinho</title>
-      <link>https://pmorvalho.github.io/squares/authors/vasco-m.-manquinho/</link>
+      <link>/authors/vasco-m.-manquinho/</link>
       <pubDate>Mon, 23 Sep 2019 13:59:34 +0200</pubDate>
-      <guid>https://pmorvalho.github.io/squares/authors/vasco-m.-manquinho/</guid>
+      <guid>/authors/vasco-m.-manquinho/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://pmorvalho.github.io/squares/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://pmorvalho.github.io/squares/authors/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miguel Terra-Neves | SQUARES</title>
-    <link>https://pmorvalho.github.io/squares/authors/miguel-terra-neves/</link>
-      <atom:link href="https://pmorvalho.github.io/squares/authors/miguel-terra-neves/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/miguel-terra-neves/</link>
+      <atom:link href="/authors/miguel-terra-neves/index.xml" rel="self" type="application/rss+xml" />
     <description>Miguel Terra-Neves</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2019 13:59:34 +0200</lastBuildDate>
     <image>
-      <url>https://pmorvalho.github.io/squares/img/icon-192.png</url>
+      <url>img/icon-192.png</url>
       <title>Miguel Terra-Neves</title>
-      <link>https://pmorvalho.github.io/squares/authors/miguel-terra-neves/</link>
+      <link>/authors/miguel-terra-neves/</link>
     </image>
     
     <item>
       <title>Encodings for Enumeration-Based Program Synthesis</title>
-      <link>https://pmorvalho.github.io/squares/publication/conference-paper/</link>
+      <link>/publication/conference-paper/</link>
       <pubDate>Mon, 23 Sep 2019 13:59:34 +0200</pubDate>
-      <guid>https://pmorvalho.github.io/squares/publication/conference-paper/</guid>
+      <guid>/publication/conference-paper/</guid>
       <description></description>
     </item>
     

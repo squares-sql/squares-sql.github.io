@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ruben Martins | SQUARES</title>
-    <link>https://pmorvalho.github.io/squares/authors/ruben-martins/</link>
-      <atom:link href="https://pmorvalho.github.io/squares/authors/ruben-martins/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/ruben-martins/</link>
+      <atom:link href="/authors/ruben-martins/index.xml" rel="self" type="application/rss+xml" />
     <description>Ruben Martins</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2019 13:59:34 +0200</lastBuildDate>
     <image>
-      <url>https://pmorvalho.github.io/squares/img/icon-192.png</url>
+      <url>img/icon-192.png</url>
       <title>Ruben Martins</title>
-      <link>https://pmorvalho.github.io/squares/authors/ruben-martins/</link>
+      <link>/authors/ruben-martins/</link>
     </image>
     
     <item>
       <title>Encodings for Enumeration-Based Program Synthesis</title>
-      <link>https://pmorvalho.github.io/squares/publication/conference-paper/</link>
+      <link>/publication/conference-paper/</link>
       <pubDate>Mon, 23 Sep 2019 13:59:34 +0200</pubDate>
-      <guid>https://pmorvalho.github.io/squares/publication/conference-paper/</guid>
+      <guid>/publication/conference-paper/</guid>
       <description></description>
     </item>
     
