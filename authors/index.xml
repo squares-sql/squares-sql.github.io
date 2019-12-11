@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | SQUARES</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://squares-sql.github.io/authors/</link>
+      <atom:link href="https://squares-sql.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2019 13:59:34 +0200</lastBuildDate>
     <image>
-      <url>img/icon-192.png</url>
+      <url>https://squares-sql.github.io/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://squares-sql.github.io/authors/</link>
     </image>
     
     <item>
       <title>Miguel Terra-Neves</title>
-      <link>/authors/miguel-terra-neves/</link>
+      <link>https://squares-sql.github.io/authors/miguel-terra-neves/</link>
       <pubDate>Mon, 23 Sep 2019 13:59:34 +0200</pubDate>
-      <guid>/authors/miguel-terra-neves/</guid>
+      <guid>https://squares-sql.github.io/authors/miguel-terra-neves/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Miguel Ventura</title>
-      <link>/authors/miguel-ventura/</link>
+      <link>https://squares-sql.github.io/authors/miguel-ventura/</link>
       <pubDate>Mon, 23 Sep 2019 13:59:34 +0200</pubDate>
-      <guid>/authors/miguel-ventura/</guid>
+      <guid>https://squares-sql.github.io/authors/miguel-ventura/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pedro Orvalho</title>
-      <link>/authors/pedro-orvalho/</link>
+      <link>https://squares-sql.github.io/authors/pedro-orvalho/</link>
       <pubDate>Mon, 23 Sep 2019 13:59:34 +0200</pubDate>
-      <guid>/authors/pedro-orvalho/</guid>
+      <guid>https://squares-sql.github.io/authors/pedro-orvalho/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ruben Martins</title>
-      <link>/authors/ruben-martins/</link>
+      <link>https://squares-sql.github.io/authors/ruben-martins/</link>
       <pubDate>Mon, 23 Sep 2019 13:59:34 +0200</pubDate>
-      <guid>/authors/ruben-martins/</guid>
+      <guid>https://squares-sql.github.io/authors/ruben-martins/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vasco M. Manquinho</title>
-      <link>/authors/vasco-m.-manquinho/</link>
+      <link>https://squares-sql.github.io/authors/vasco-m.-manquinho/</link>
       <pubDate>Mon, 23 Sep 2019 13:59:34 +0200</pubDate>
-      <guid>/authors/vasco-m.-manquinho/</guid>
+      <guid>https://squares-sql.github.io/authors/vasco-m.-manquinho/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://squares-sql.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://squares-sql.github.io/authors/admin/</guid>
       <description></description>
     </item>
     

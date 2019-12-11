@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publication_types | SQUARES</title>
-    <link>/publication_types/</link>
-      <atom:link href="/publication_types/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://squares-sql.github.io/publication_types/</link>
+      <atom:link href="https://squares-sql.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
     <description>Publication_types</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2019 13:59:34 +0200</lastBuildDate>
     <image>
-      <url>img/icon-192.png</url>
+      <url>https://squares-sql.github.io/img/icon-192.png</url>
       <title>Publication_types</title>
-      <link>/publication_types/</link>
+      <link>https://squares-sql.github.io/publication_types/</link>
     </image>
     
     <item>
       <title>1</title>
-      <link>/publication_types/1/</link>
+      <link>https://squares-sql.github.io/publication_types/1/</link>
       <pubDate>Mon, 23 Sep 2019 13:59:34 +0200</pubDate>
-      <guid>/publication_types/1/</guid>
+      <guid>https://squares-sql.github.io/publication_types/1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>7</title>
-      <link>/publication_types/7/</link>
+      <link>https://squares-sql.github.io/publication_types/7/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication_types/7/</guid>
+      <guid>https://squares-sql.github.io/publication_types/7/</guid>
       <description></description>
     </item>
     

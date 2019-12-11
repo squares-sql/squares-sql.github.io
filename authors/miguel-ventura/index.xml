@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miguel Ventura | SQUARES</title>
-    <link>/authors/miguel-ventura/</link>
-      <atom:link href="/authors/miguel-ventura/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://squares-sql.github.io/authors/miguel-ventura/</link>
+      <atom:link href="https://squares-sql.github.io/authors/miguel-ventura/index.xml" rel="self" type="application/rss+xml" />
     <description>Miguel Ventura</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 23 Sep 2019 13:59:34 +0200</lastBuildDate>
     <image>
-      <url>img/icon-192.png</url>
+      <url>https://squares-sql.github.io/img/icon-192.png</url>
       <title>Miguel Ventura</title>
-      <link>/authors/miguel-ventura/</link>
+      <link>https://squares-sql.github.io/authors/miguel-ventura/</link>
     </image>
     
     <item>
       <title>Encodings for Enumeration-Based Program Synthesis</title>
-      <link>/publication/conference-paper/</link>
+      <link>https://squares-sql.github.io/publication/conference-paper/</link>
       <pubDate>Mon, 23 Sep 2019 13:59:34 +0200</pubDate>
-      <guid>/publication/conference-paper/</guid>
+      <guid>https://squares-sql.github.io/publication/conference-paper/</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>7 | SQUARES</title>
-    <link>/publication_types/7/</link>
-      <atom:link href="/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://squares-sql.github.io/publication_types/7/</link>
+      <atom:link href="https://squares-sql.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>img/icon-192.png</url>
+      <url>https://squares-sql.github.io/img/icon-192.png</url>
       <title>7</title>
-      <link>/publication_types/7/</link>
+      <link>https://squares-sql.github.io/publication_types/7/</link>
     </image>
     
     <item>
       <title>SQUARES : A SQL Synthesizer Using Query Reverse Engineering</title>
-      <link>/publication/thesis/</link>
+      <link>https://squares-sql.github.io/publication/thesis/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/thesis/</guid>
+      <guid>https://squares-sql.github.io/publication/thesis/</guid>
       <description></description>
     </item>
     
