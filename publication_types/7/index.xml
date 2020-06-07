@@ -5,7 +5,7 @@
     <link>https://squares-sql.github.io/publication_types/7/</link>
       <atom:link href="https://squares-sql.github.io/publication_types/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://squares-sql.github.io/img/icon-192.png</url>
       <title>7</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>SQUARES : A SQL Synthesizer Using Query Reverse Engineering</title>
-      <link>https://squares-sql.github.io/publication/thesis/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://squares-sql.github.io/publication/thesis/</guid>
+      <link>https://squares-sql.github.io/publication/msc-thesis/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>https://squares-sql.github.io/publication/msc-thesis/</guid>
       <description></description>
     </item>
     
