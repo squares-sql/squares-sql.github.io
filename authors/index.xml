@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title></title>
+      <link>https://squares-sql.github.io/authors/admin/</link>
+      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://squares-sql.github.io/authors/admin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Miguel Terra-Neves</title>
       <link>https://squares-sql.github.io/authors/miguel-terra-neves/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
@@ -25,14 +33,6 @@
       <link>https://squares-sql.github.io/authors/miguel-ventura/</link>
       <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://squares-sql.github.io/authors/miguel-ventura/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pedro Orvalho</title>
-      <link>https://squares-sql.github.io/authors/pedro-orvalho/</link>
-      <pubDate>Mon, 31 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://squares-sql.github.io/authors/pedro-orvalho/</guid>
       <description></description>
     </item>
     
@@ -53,10 +53,10 @@
     </item>
     
     <item>
-      <title></title>
-      <link>https://squares-sql.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://squares-sql.github.io/authors/admin/</guid>
+      <title>Pedro Orvalho</title>
+      <link>https://squares-sql.github.io/authors/pedro-orvalho/</link>
+      <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://squares-sql.github.io/authors/pedro-orvalho/</guid>
       <description></description>
     </item>
     
